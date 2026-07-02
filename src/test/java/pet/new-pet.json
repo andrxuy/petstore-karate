@@ -1,0 +1,19 @@
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "dogs"
+  },
+  "name": "Firulais",
+  "photoUrls": [
+    "https://example.com/photo.jpg"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "friendly"
+    }
+  ],
+  "status": "available"
+}
+
